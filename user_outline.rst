@@ -119,7 +119,7 @@ The user can control the behavior of the navigator using the control software. A
 5.1. Output Control
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The user can do the followings in the navigation output control tab shown in Figure 10:
+The user can do the following in the navigation output control tab shown in Figure 10:
 
 - Specify the navigation output position. The user can choose from the center of the IMU or the cross-mark on top of the IMU housing.
 - If the static position pinning is enabled, the system will output a fixed position during a static period detected by the GNSS. Note that there is a chance that the system can miss the detection if the signal quality becomes weak.
